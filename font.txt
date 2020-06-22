@@ -1,0 +1,18 @@
+<i class="fas fa-home"></i>  home
+<i class="fa fa-medkit"></i> help center
+<i class="fa fa-sign-in"></i> login
+<i class="fa fa-pencil-square-o"></i>  sign up
+<i class="fa fa-search"></i>  search
+<i class="fa fa-phone"></i> phone
+<i class="fa fa-envelope-o"></i> email	
+<i class="fa fa-clock-o"></i> watch
+<i class="fa fa-map-marker"></i> location
+<i class="fa fa-user"></i> user
+<i class="fa fa-facebook-square"></i> facebook
+<i class="fa fa-google-plus"></i> google
+<i class="fa fa-twitter"></i> twitter
+<i class="fa fa-linkedin-square"></i> linkindi
+<i class="fab fa-dribbble"></i>  dribbble
+<i class="fab fa-evernote"></i> evernote
+
+<!-- <script src="https://kit.fontawesome.com/2785195b9e.js" crossorigin="anonymous"></script>  font awesome kit -->
